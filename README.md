@@ -1,0 +1,2 @@
+# web-link-reicrolled
+A browser extension that can change all the link in website to anylink!(default rickrolled of course @@).
